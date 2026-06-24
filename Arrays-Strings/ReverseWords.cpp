@@ -1,6 +1,6 @@
-// Approach:
-// Time: 
-// Space::
+// Approach: Manual parsing + Reverse Iteration
+// Time: O(n)
+// Space: O(n)
 #include<vector>
 #include<string>
 using namespace std;
