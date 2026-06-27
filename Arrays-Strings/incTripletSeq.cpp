@@ -1,4 +1,3 @@
-
 /*
 Approach: We can use two variables to keep track 
 of the smallest and second smallest numbers we have 
