@@ -15,7 +15,8 @@ Solved consistently as part of my summer DSA practice.
 | 6 | Reverse Words in a String | Medium | Arrays/Strings | ✅ |
 | 7 | Product of Array Except Self | Medium | Arrays/Strings | ✅ |
 | 8 | Increasing Triplet Subsequence | Medium | Arrays/Strings | ✅ |
-
+| 9 | String Compression | Medium | Arrays/Strings | ✅ |
+| 10 | Move Zeroes | Easy | Two Pointers | ✅ |
 ## Connect
 - GitHub: github.com/mhussainusman
 - LinkedIn: linkedin.com/in/hussain-usman-69b0a4286
