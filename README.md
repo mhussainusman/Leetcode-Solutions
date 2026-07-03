@@ -17,6 +17,9 @@ Solved consistently as part of my summer DSA practice.
 | 8 | Increasing Triplet Subsequence | Medium | Arrays/Strings | ✅ |
 | 9 | String Compression | Medium | Arrays/Strings | ✅ |
 | 10 | Move Zeroes | Easy | Two Pointers | ✅ |
+| 11 | Is Subsequence | Easy | Two Pointers | ✅ |
+| 12 | Container With Most Water | Medium | Two Pointers | ✅ |
+| 13 | Max Number of K-Sum Pairs | Medium | Two Pointers | ✅ |
 ## Connect
 - GitHub: github.com/mhussainusman
 - LinkedIn: linkedin.com/in/hussain-usman-69b0a4286
