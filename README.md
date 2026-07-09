@@ -20,6 +20,11 @@ Solved consistently as part of my summer DSA practice.
 | 11 | Is Subsequence | Easy | Two Pointers | ✅ |
 | 12 | Container With Most Water | Medium | Two Pointers | ✅ |
 | 13 | Max Number of K-Sum Pairs | Medium | Two Pointers | ✅ |
+| 14 | Maximum Average Subarray 1 | Easy | Sliding Window | ✅ |
+| 15 | Maximum Number of Vowels in a Substring of Given Length | Medium | Sliding Window | ✅ |
+| 16 | Max Consecutive Ones (3) | Medium | Sliding Window | ✅ |
+| 17 | Longest Subarray of 1's After Deleting One Element | Medium | Sliding Window | ✅ |
+
 ## Connect
 - GitHub: github.com/mhussainusman
 - LinkedIn: linkedin.com/in/hussain-usman-69b0a4286
