@@ -25,7 +25,7 @@ public:
         if(s1!=s2){return false;}// values of map checked, sets don't need to be sorted out
 
         // same collection of counts once sorted
-        vector<int>v1,v2;
+        vector<int>v1,v2; // vectors are used instead of sets cause it also take duplicates
         for(pair<char,int>p:freq1){v1.push_back(p.second);} // map.second stores the count/freq of every value
         for(pair<char,int>p:freq2){v2.push_back(p.second);}
         sort(v1.begin(),v1.end());// sorting is done to check equality
