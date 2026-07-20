@@ -24,6 +24,19 @@ Solved consistently as part of my summer DSA practice.
 | 15 | Maximum Number of Vowels in a Substring of Given Length | Medium | Sliding Window | ✅ |
 | 16 | Max Consecutive Ones (3) | Medium | Sliding Window | ✅ |
 | 17 | Longest Subarray of 1's After Deleting One Element | Medium | Sliding Window | ✅ |
+| 18 | Find the Highest Altitude | Easy | Prefix Sum | ✅ |
+| 19 | Find Pivot Index | Easy | Prefix Sum | ✅ |
+| 20 | Find the Difference of Two Arrays | Easy | Hash Map/Set | ✅ |
+| 21 | Unique number of Occurrences | Easy | Hash Map/Set | ✅ |
+| 22 | Determine if Two Strings Are Close | Medium | Hash Map/Set | ✅ |
+| 23 | Equal Row and Column Pairs | Medium | Hash Map/Set | ✅ |
+| 24 | Removing Stars From a String| Medium | Stack | ✅ |
+| 25 | Asteroid Collision | Medium | Stack | ✅ |
+| 26 | Decode String| Medium | Stack | ✅ |
+
+
+
+
 
 ## Connect
 - GitHub: github.com/mhussainusman
