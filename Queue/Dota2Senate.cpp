@@ -21,3 +21,5 @@ using namespace std;
                 dire.push(d + n); // Dire acts first, bans Radiant, survives to next round
             }
         }
+    }
+            
