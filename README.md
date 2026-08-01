@@ -33,6 +33,14 @@ Solved consistently as part of my summer DSA practice.
 | 24 | Removing Stars From a String| Medium | Stack | ✅ |
 | 25 | Asteroid Collision | Medium | Stack | ✅ |
 | 26 | Decode String| Medium | Stack | ✅ |
+| 27 | Number of Recent Calls | Easy | Queue | ✅ |
+| 28 | Dota2 Senate | Medium | Queue | ✅ |
+| 29 | Delete the Middle Node of a Linked List | Medium | Linked List | ✅ |
+| 30 | Odd Even Linked List | Medium | Linked List | ✅ |
+| 31 | Reverse Linked List | Easy | Linked List | ✅ |
+| 32 | Maximum Twin Sum of a Linked List | Medium | Linked List | ✅ |
+| 33 | Maximum Depth of Binary Tree | Easy | Binary Tree - DFS | ✅ |
+
 
 
 
