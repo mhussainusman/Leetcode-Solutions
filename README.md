@@ -40,8 +40,8 @@ Solved consistently as part of my summer DSA practice.
 | 31 | Reverse Linked List | Easy | Linked List | ✅ |
 | 32 | Maximum Twin Sum of a Linked List | Medium | Linked List | ✅ |
 | 33 | Maximum Depth of Binary Tree | Easy | Binary Tree - DFS | ✅ |
-
-
+| 34 | Leaf-Similar Trees | Easy | Binary Tree - DFS | ✅ |
+| 35 | Count Good Nodes in Binary Tree | Medium | Binary Tree - DFS | ✅ |
 
 
 
