@@ -42,6 +42,12 @@ Solved consistently as part of my summer DSA practice.
 | 33 | Maximum Depth of Binary Tree | Easy | Binary Tree - DFS | ✅ |
 | 34 | Leaf-Similar Trees | Easy | Binary Tree - DFS | ✅ |
 | 35 | Count Good Nodes in Binary Tree | Medium | Binary Tree - DFS | ✅ |
+| 36 | Path Sum III | Medium | Binary Tree - DFS | ✅ |
+| 37 | Longest ZigZag Path in a Binary Tree | Medium | Binary Tree - DFS | ✅ |
+| 38 | Lowest Common Ancestor of a Binary Tree | Medium | Binary Tree - DFS | ✅ |
+| 39 | Binary Tree Right Side View | Medium | Binary Tree - BFS | ✅ |
+| 40 | Maximum Level Sum of a Binary Tree | Medium | Binary Tree - BFS | ✅ |
+| 41 | Search in a Binary Search Tree | Easy | Binary Search Tree | ✅ |
 
 
 
