@@ -48,6 +48,13 @@ Solved consistently as part of my summer DSA practice.
 | 39 | Binary Tree Right Side View | Medium | Binary Tree - BFS | ✅ |
 | 40 | Maximum Level Sum of a Binary Tree | Medium | Binary Tree - BFS | ✅ |
 | 41 | Search in a Binary Search Tree | Easy | Binary Search Tree | ✅ |
+| 42 | Delete Node in a BST | Medium | Binary Search Tree | ✅ |
+| 43 | Keys and Rooms | Medium | Graphs - DFS | ✅ |
+| 44 | Number of Provinces | Medium | Graphs - DFS | ✅ |
+| 45 | Reorder Routes to Make All Paths Lead to the City Zero | Medium | Graphs - DFS | ✅ |
+| 46 | Evaluate Division | Medium | Graphs - DFS | ✅ |
+| 47 | Nearest Exit from Entrance in Maze | Medium | Graphs - BFS | ✅ |
+| 48 | Rotting Oranges | Medium | Graphs - BFS | ✅ |
 
 
 
