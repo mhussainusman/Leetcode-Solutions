@@ -55,6 +55,9 @@ Solved consistently as part of my summer DSA practice.
 | 46 | Evaluate Division | Medium | Graphs - DFS | ✅ |
 | 47 | Nearest Exit from Entrance in Maze | Medium | Graphs - BFS | ✅ |
 | 48 | Rotting Oranges | Medium | Graphs - BFS | ✅ |
+| 49 | Kth Largest Element in an Array | Medium | Heap/Priority Queue | ✅ |
+| 50 | Smallest Number in Infinite Set | Medium | Heap/Priority Queue | ✅ |
+| 51 | Maximum Subsequence Score | Medium | Heap/Priority Queue | ✅ |
 
 
 
